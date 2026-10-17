@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "values": {
+    "ad_double_coins_daily_cap": 20,
+    "ad_double_coins_enabled": true,
+    "ad_extra_moves_daily_cap": 10,
+    "ad_extra_moves_enabled": true,
+    "ad_interstitial_enabled": true,
+    "ad_life_refill_daily_cap": 5,
+    "ad_life_refill_enabled": true,
+    "ad_undo_daily_cap": 30,
+    "ad_undo_enabled": true,
+    "ad_undos": 5,
+    "ads_enabled": false,
+    "booster_extra_shelf_cost": 100,
+    "booster_extra_shelf_enabled": true,
+    "booster_extra_shelf_per_level": 1,
+    "coin_per_spare_move": 1,
+    "daily_base": 20,
+    "daily_streak_bonus": 5,
+    "daily_streak_cap": 7,
+    "free_undos": 5,
+    "interstitial_cooldown_sec": 75,
+    "interstitial_every_levels": 3,
+    "interstitial_start_level": 6,
+    "perfect_bonus": 5,
+    "revive_moves": 5,
+    "win_base": 10
+  },
+  "version": 2
+}
